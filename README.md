@@ -1,7 +1,5 @@
 ![alt text](https://raw.githubusercontent.com/DenBilokon/Xmara/default/contacts_web_app/users/static/users/img/logo-no-background_2.png)
 
-![alt text](https://raw.githubusercontent.com/DenBilokon/Xmara/main/contacts_web_app/users/static/users/img/logo-no-background_2.png)
-
 # "Personal Assistant" (Web application)
 ## Basic features of the web application:
 - Save contacts with names, addresses, phone numbers, email and birthdays to the contact book, display a list of contacts whose birthday is a specified number of days from the current date;
