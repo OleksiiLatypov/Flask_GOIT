@@ -90,12 +90,12 @@ def login():
             return redirect(url_for('login'))
         session['username'] = {"username": user.username, "id": user.id}
         response = make_response(redirect(url_for('index')))
-        # if remember:
-        #     # Треба створить token, та покласти його в cookie та БД
-        #     token = str(uuid.uuid4())
-        #     expire_data = datetime.now() + timedelta(days=60)
-        #     response.set_cookie('username', token, expires=expire_data)
-        #     users.set_token(user, token)
+        if remember:
+            # Треба створить token, та покласти його в cookie та БД
+            token = str(uuid.uuid4())
+            expire_data = datetime.now() + timedelta(days=60)
+            response.set_cookie('username', token, expires=expire_data)
+            users.set_token(user, token)
 
         return response
     if auth:
