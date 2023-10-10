@@ -2,7 +2,7 @@
   <img src="https://raw.githubusercontent.com/DenBilokon/doc_X_chat/main/doc_X_chat/chat_llm/static/chat_llm/img/allXlogo.gif" width="700" height="300" alt="DocsXchat">
 </div>
 
-<p align="center" style="font-size: 24px;">
+<p align="center" style="font-size: 90px;">
   <strong>DocsXchat Web App</strong>
 </p>
 
