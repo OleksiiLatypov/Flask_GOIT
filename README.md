@@ -1,8 +1,6 @@
-
 <div align="center">
   <img src="https://raw.githubusercontent.com/DenBilokon/doc_X_chat/main/doc_X_chat/chat_llm/static/chat_llm/img/allXlogo.gif" width="800" height="350" alt="DocsXchat">
 </div>
-
 
 # DocsXchat Web App (GoIT final Project)
 
