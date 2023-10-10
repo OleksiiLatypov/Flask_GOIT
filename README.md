@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <strong><span style="font-size: 24px;">DocsXchat Web App</span></strong>
+  <strong><span style="font-size: 24px;">##DocsXchat Web App</span></strong>
 </p>
 
 
