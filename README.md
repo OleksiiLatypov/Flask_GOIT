@@ -2,9 +2,7 @@
   <img src="https://raw.githubusercontent.com/DenBilokon/doc_X_chat/main/doc_X_chat/chat_llm/static/chat_llm/img/allXlogo.gif" width="700" height="300" alt="DocsXchat">
 </div>
 
-<p align="center">
-  <strong><span style="font-size: 100px;">##DocsXchat Web App</span></strong>
-</p>
+<h1 align="center">DocsXchat Web App</h1>
 
 
 ### DocsXchat is a web application coded on Django framework and Python, that allows you upload your own documents and address questions based on these materials, using the powerful capabilities of LLM models to provide context-sensitive answers.
