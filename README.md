@@ -11,7 +11,7 @@
 - Implements a responsive user interface that provides smooth operation on various devices and enhanced accessibility.
 - The chat history function was developed and implemented, allowing users to return to previous conversations with the chatbot, which contributes to a more convenient interaction. 
 
-## How to setup web app:
+## How to install project:
 
 1. Clone the repository to your computer:
 
