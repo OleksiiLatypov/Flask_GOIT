@@ -1,6 +1,9 @@
 
 ![alt text](https://raw.githubusercontent.com/DenBilokon/doc_X_chat/main/doc_X_chat/chat_llm/static/chat_llm/img/allXlogo.gif)
-<center><img src="https://raw.githubusercontent.com/DenBilokon/doc_X_chat/main/doc_X_chat/chat_llm/static/chat_llm/img/allXlogo.gif" width="600"  height="300" alt="Alternative Text"></center>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/DenBilokon/doc_X_chat/main/doc_X_chat/chat_llm/static/chat_llm/img/allXlogo.gif" width="200" alt="Alternative Text">
+</div>
+
 
 # DocsXchat Web App (GoIT final Project)
 
