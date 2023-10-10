@@ -6,7 +6,8 @@
 ### DocsXchat is a web application coded on Django framework and Python, that allows you upload your own documents and address questions based on these materials, using the powerful capabilities of LLM models to provide context-sensitive answers.
 
 ## DocsXchat Features:
-- Allows users to upload PDF files, making them available for content-based queries. - Provides real-time chatbot responses to user requests about the content of downloaded PDF documents.
+- Allows users to upload PDF files, making them available for content-based queries.
+- Provides real-time chatbot responses to user requests about the content of downloaded PDF documents.
 - Implements a responsive user interface that provides smooth operation on various devices and enhanced accessibility.
 - The chat history function was developed and implemented, allowing users to return to previous conversations with the chatbot, which contributes to a more convenient interaction. 
 
